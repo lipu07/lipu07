@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lipu07
+- 👋 Hi, I’m @satyabratsahoo
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning B.Sc (Computer Science)
 - 😄 Pronouns: Lipu
